@@ -1,33 +1,12 @@
-# SamuraiDash
+# Las-Flipantes-Aventuras-del-Samurai-de-la-Katana-en-Otro-Tiempo
+Proyecto IntelliJ de FASKOT
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+"Esta no es la historia de un héroe. Es la historia de un hombre que perdió todo... y se adentró en lo desconocido para recuperarlo."
 
-This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
+El samurái no buscaba gloria. Tras años de servicio, solo deseaba paz: el fluir del viento entre los arrozales, el calor del hogar al caer la noche. Pero el destino tenía otros planes. Una noche, mientras dormía tras un día de trabajo, el infierno llegó sin avisar. Gritos desgarradores. Llamas devorando su aldea. Figuras oscuras —hombres sin honor, armados con acero y crueldad— masacraron a todo aquel que conocía. El samurái desenvainó su Katana, dispuesto a morir luchando... pero entonces lo vio. Detrás de su casa, donde solo debía haber oscuridad, algo brillaba. Un portal. No era natural. No era de este mundo. Y no tenía elección. Con el eco de los gritos aun ardiendo en sus oídos, saltó al vacío. Lo que encontró al otro lado desafiaría todo lo que creía saber. Mundos que no debían existir. Enemigos que hablaban de guerras en tiempos aún no nacidos. Secretos que retorcían la realidad misma. Pero él no retrocedería.
 
-## Platforms
+Alguien había destruido su vida.
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
+Alguien pagaría por ello.
 
-## Gradle
-
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
-
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
-
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+Si hay alguna duda no dudes en contactarme a mi correo: hugoredondo2005@gmail.com

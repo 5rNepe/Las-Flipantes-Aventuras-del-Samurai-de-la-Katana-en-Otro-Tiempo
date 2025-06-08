@@ -1,0 +1,4 @@
+1856,11968,NPCS/accion.png,1,Samurai,(Te acercas a la hoguera);Han bajado las temperaturas...;Hace frio,Pulsa E para acercarte
+4704,11872,NPCS/accion.png,1,Samurai,(Te acercas a abismo);(Te recorre un escalofrio de los dedos de los pies a la cabeza),Pulsa E para pensar
+9472,11776,NPCS/accion.png,1,Samurai,(Te sientas en silla);(Esta tan fria que te deslizas y te caes);... no me vuelvo a sentar,Pulsa E para sentarte
+3168,4640,NPCS/accion.png,1,Samurai,(Golpeas el barril con la katana);(Empieza a salir un liquido oscuro del barril);Creo que no deberia haberlo hecho...,Pulsa E para romper

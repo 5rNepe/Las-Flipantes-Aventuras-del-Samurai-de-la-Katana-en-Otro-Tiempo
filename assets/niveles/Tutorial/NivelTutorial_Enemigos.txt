@@ -1,0 +1,15 @@
+534,5285,657,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+774,5221,859,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+982,5317,1105,0,Enemigos/Countess_Vampire/Idle.png,5,Enemigos/Countess_Vampire/Run.png,6,Enemigos/Countess_Vampire/Attack_1.png,6,Enemigos/Countess_Vampire/Dead.png,8
+1137,5253,1383,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+1425,5349,1585,0,Enemigos/Skeleton_Spearman/Idle.png,7,Enemigos/Skeleton_Spearman/Run.png,6,Enemigos/Skeleton_Spearman/Attack_1.png,4,Enemigos/Skeleton_Spearman/Dead.png,5
+2321,5413,2439,0,Enemigos/Ninja_Monk/Idle.png,7,Enemigos/Ninja_Monk/Run.png,8,Enemigos/Ninja_Monk/Attack_1.png,5,Enemigos/Ninja_Monk/Dead.png,5
+2490,5445,2631,0,Enemigos/Black_Werewolf/Idle.png,8,Enemigos/Black_Werewolf/Run.png,9,Enemigos/Black_Werewolf/Attack_1.png,6,Enemigos/Black_Werewolf/Dead.png,2
+2737,5477,2823,0,Enemigos/Skeleton_Warrior/Idle.png,7,Enemigos/Skeleton_Warrior/Run.png,8,Enemigos/Skeleton_Warrior/Attack_1.png,5,Enemigos/Skeleton_Warrior/Dead.png,4
+2865,5541,3089,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+3121,5536,3300,0,Enemigos/Blue_Slime/Idle.png,8,Enemigos/Blue_Slime/Run.png,7,Enemigos/Blue_Slime/Attack_1.png,4,Enemigos/Blue_Slime/Dead.png,3
+3515,5664,3687,0,Enemigos/Fire vizard/Idle.png,7,Enemigos/Fire vizard/Run.png,8,Enemigos/Fire vizard/Attack_1.png,4,Enemigos/Fire vizard/Dead.png,6
+3739,5632,3943,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+3995,5632,4167,0,Enemigos/Gangsters_2/Idle.png,7,Enemigos/Gangsters_2/Run.png,10,Enemigos/Gangsters_2/Attack_1.png,6,Enemigos/Gangsters_2/Dead.png,5
+4219,5664,4551,0,Enemigos/Skeleton_Warrior/Idle.png,7,Enemigos/Skeleton_Warrior/Run.png,8,Enemigos/Skeleton_Warrior/Attack_1.png,5,Enemigos/Skeleton_Warrior/Dead.png,4
+4699,5600,4935,0,Enemigos/Ninja_Peasant/Idle.png,6,Enemigos/Ninja_Peasant/Run.png,6,Enemigos/Ninja_Peasant/Attack_1.png,6,Enemigos/Ninja_Peasant/Dead.png,4

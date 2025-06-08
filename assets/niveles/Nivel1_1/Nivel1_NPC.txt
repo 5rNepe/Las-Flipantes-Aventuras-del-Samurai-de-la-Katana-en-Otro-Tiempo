@@ -1,0 +1,4 @@
+1088,12160,NPCS/NPC13.png,6,Tutorial,Hola de nuevo;Te voy a ensenar una mecanica que necesitaras a partir de ahora;Esta se llama bloqueo;A partir de este nivel te encontraras con enemigos que disparan;Para evitar que estos disparos te maten tienes que bloquearlos antes de que te den;Estos se bloquean con la E;Pero ten cuidado porque cuando bloqueas un disparo te gastara la mitad de la estamina;Si no tienes suficiente estamina no podras bloquear;Ademas cuando bloqueas no se regenera la estamina;Asi que controla cuando lo pulsas y cuando no;Mucha Suerte,Pulsa E para Tutorial
+4064,11744,NPCS/accion.png,1,Cartel,Cuidado con la Caida!,Pulsa E para leer
+3232,7232,NPCS/accion.png,1,Samurai,Esto es reciente;Cuanto llevaran aqui?,Pulsa E para observar
+8512,7040,NPCS/accion.png,1,Samurai,(Accionas la palanca);Suena un sonido muy fuerte,Pulsa E para mover

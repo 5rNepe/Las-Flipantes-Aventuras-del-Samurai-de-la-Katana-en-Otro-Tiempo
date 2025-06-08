@@ -1,0 +1,346 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "MapaTutorialDormir.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "Agua.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Aldea.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Anuncios.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arboles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Bandera.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Casas.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Casas2.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Casas3.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Casas4.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Casas5.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Casas6.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Casas7.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Ciudad Decoraciones.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75
+        },
+        "Construcciones Ciudad 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Construcciones Ciudad.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fogata.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "GandalfCore.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Gato.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Humo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Lobby Principal.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2766.5,
+                "y": 2024.5
+            }
+        },
+        "MapaTutorial.tmx": {
+            "expandedObjectLayers": [
+                14
+            ],
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6772,
+                "y": 1562
+            }
+        },
+        "MapaTutorial.tmx#Casas2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MapaTutorial.tmx#Villa Tiles": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MapaTutorialDormir.tmx": {
+            "expandedObjectLayers": [
+                14
+            ],
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 7244,
+                "y": 1725.333333333333
+            }
+        },
+        "MapaTutorialDormir.tmx#Casas2": {
+            "scaleInDock": 0.5
+        },
+        "MapaTutorialDormir.tmx#Villa Tiles": {
+            "scaleInDock": 0.5
+        },
+        "MapaTutorialFinal.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1208,
+                "y": 840
+            }
+        },
+        "MapaTutoriall.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -5408,
+                "y": 8320
+            }
+        },
+        "MapaTutoriall.tmx#Casas2": {
+            "scaleInDock": 1
+        },
+        "MapaTutoriall.tmx#Villa Tiles": {
+            "scaleInDock": 1
+        },
+        "Mercado.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "NPC1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Nivel1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1164,
+                "y": 605.3333333333333
+            }
+        },
+        "Nivel2.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2817.333333333333,
+                "y": 7893.333333333332
+            }
+        },
+        "Nivel3.tmx": {
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 6008,
+                "y": 4212
+            }
+        },
+        "Nivel4.tmx": {
+            "expandedObjectLayers": [
+                24
+            ],
+            "scale": 1,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 2085,
+                "y": 732
+            }
+        },
+        "Objetos Mediavales.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "ObjetosFuturistasGenerales.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Portal1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Portal2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Rocas.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Suelo Roca.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Suelos Industrial.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Suelos Swamp.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "SuelosInter.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Tiles Ciudad.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Villa Suelo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Villa Tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Villa Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 2000,
+    "last.exportedFilePath": "C:/Users/hredondo/IdeaProjects/SamuraiNinja/assets",
+    "last.externalTilesetPath": "C:/Users/hredondo/Desktop/Samurai Ninja Tiled",
+    "last.imagePath": "C:/Users/hredondo/IdeaProjects/SamuraiNinja/assets/TodosLosAssetsTiled/ObjetosFuturistas/FuturoTocho",
+    "map.height": 400,
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "3",
+    "map.renderOrder": "2",
+    "map.width": 400,
+    "openFiles": [
+        "Villa Suelo.tsx",
+        "MapaTutorialDormir.tmx",
+        "Suelos Industrial.tsx",
+        "MapaTutorialFinal.tmx",
+        "Humo.tsx",
+        "Portal1.tsx",
+        "Portal2.tsx",
+        "Suelo Roca.tsx",
+        "Anuncios.tsx",
+        "ObjetosFuturistasGenerales.tsx",
+        "SuelosInter.tsx",
+        "Construcciones Ciudad.tsx",
+        "Tiles Ciudad.tsx",
+        "GandalfCore.tsx",
+        "Suelos Swamp.tsx",
+        "Lobby Principal.tmx",
+        "Nivel1.tmx",
+        "Nivel2.tmx",
+        "Nivel3.tmx",
+        "MapaTutorial.tmx",
+        "Nivel4.tmx"
+    ],
+    "project": "Samurai Ninja.tiled-project",
+    "property.type": "object",
+    "recentFiles": [
+        "Villa Suelo.tsx",
+        "Nivel4.tmx",
+        "MapaTutorial.tmx",
+        "Nivel3.tmx",
+        "Nivel2.tmx",
+        "Nivel1.tmx",
+        "Lobby Principal.tmx",
+        "Suelos Swamp.tsx",
+        "GandalfCore.tsx",
+        "Tiles Ciudad.tsx",
+        "Construcciones Ciudad.tsx",
+        "SuelosInter.tsx"
+    ],
+    "tileset.lastUsedFilter": "Archivos de conjuntos de patrones Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}

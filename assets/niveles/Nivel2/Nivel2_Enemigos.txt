@@ -1,0 +1,26 @@
+3114,7232,3330,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+1610,11968,1826,0,Enemigos/Ninja_Peasant/Idle.png,6,Enemigos/Ninja_Peasant/Run.png,6,Enemigos/Ninja_Peasant/Attack_1.png,6,Enemigos/Ninja_Peasant/Dead.png,4
+2154,11968,2370,0,Enemigos/Countess_Vampire/Idle.png,5,Enemigos/Countess_Vampire/Run.png,6,Enemigos/Countess_Vampire/Attack_1.png,6,Enemigos/Countess_Vampire/Dead.png,8
+2730,12064,2914,0,Enemigos/Skeleton_Warrior/Idle.png,7,Enemigos/Skeleton_Warrior/Run.png,8,Enemigos/Skeleton_Warrior/Attack_1.png,5,Enemigos/Skeleton_Warrior/Dead.png,4
+3082,12000,3426,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+3818,11872,4226,0,Enemigos/Blue_Slime/Idle.png,8,Enemigos/Blue_Slime/Run.png,7,Enemigos/Blue_Slime/Attack_1.png,4,Enemigos/Blue_Slime/Dead.png,3
+4288,11872,4674,0,Enemigos/Ninja_Monk/Idle.png,7,Enemigos/Ninja_Monk/Run.png,8,Enemigos/Ninja_Monk/Attack_1.png,5,Enemigos/Ninja_Monk/Dead.png,5
+5898,11840,6624,0,Enemigos/Fire vizard/Idle.png,7,Enemigos/Fire vizard/Run.png,8,Enemigos/Fire vizard/Attack_1.png,4,Enemigos/Fire vizard/Dead.png,6
+6656,11840,7330,0,Enemigos/Green_Slime/Idle.png,8,Enemigos/Green_Slime/Run.png,7,Enemigos/Green_Slime/Attack_1.png,4,Enemigos/Green_Slime/Dead.png,3
+7786,11936,8002,0,Enemigos/Skeleton_Spearman/Idle.png,7,Enemigos/Skeleton_Spearman/Run.png,6,Enemigos/Skeleton_Spearman/Attack_1.png,4,Enemigos/Skeleton_Spearman/Dead.png,5
+8330,12128,8450,0,EnemigoIdle.png,6,EnemigoRun.png,8,EnemigoAttack.png,5,EnemigoDead.png,4
+8938,11776,9122,0,Enemigos/Countess_Vampire/Idle.png,5,Enemigos/Countess_Vampire/Run.png,6,Enemigos/Countess_Vampire/Attack_1.png,6,Enemigos/Countess_Vampire/Dead.png,8
+9386,11776,9634,0,Enemigos/Ninja_Peasant/Idle.png,6,Enemigos/Ninja_Peasant/Run.png,6,Enemigos/Ninja_Peasant/Attack_1.png,6,Enemigos/Ninja_Peasant/Dead.png,4
+2954,4704,3010,1,Enemigos/Soldier_1/Idle.png,7,Enemigos/Soldier_1/Walk.png,7,Enemigos/Soldier_1/Shot_2.png,4,Enemigos/Soldier_1/Dead.png,4
+3658,4960,3810,1,Enemigos/Soldier_3/Idle.png,7,Enemigos/Soldier_3/Walk.png,8,Enemigos/Soldier_3/Shot_1.png,4,Enemigos/Soldier_3/Dead.png,5
+4202,4960,4322,1,Enemigos/Skeleton_Archer/Idle.png,7,Enemigos/Skeleton_Archer/Walk.png,8,Enemigos/Skeleton_Archer/Shot_2.png,15,Enemigos/Skeleton_Archer/Dead.png,5
+4458,5024,4546,1,Enemigos/Soldier_2/Idle.png,9,Enemigos/Soldier_2/Walk.png,8,Enemigos/Soldier_2/Shot_2.png,4,Enemigos/Soldier_2/Dead.png,4
+4938,5024,5090,1,Enemigos/Skeleton_Archer/Idle.png,7,Enemigos/Skeleton_Archer/Walk.png,8,Enemigos/Skeleton_Archer/Shot_1.png,15,Enemigos/Skeleton_Archer/Dead.png,5
+5610,4960,5794,1,Enemigos/Soldier_1/Idle.png,7,Enemigos/Soldier_1/Walk.png,7,Enemigos/Soldier_1/Shot_1.png,4,Enemigos/Soldier_1/Dead.png,4
+6122,4928,6178,1,Enemigos/Skeleton_Archer/Idle.png,7,Enemigos/Skeleton_Archer/Walk.png,8,Enemigos/Skeleton_Archer/Shot_2.png,15,Enemigos/Skeleton_Archer/Dead.png,5
+6314,4960,6466,1,Enemigos/Soldier_3/Idle.png,7,Enemigos/Soldier_3/Walk.png,8,Enemigos/Soldier_3/Shot_2.png,4,Enemigos/Soldier_3/Dead.png,5
+7082,5024,7138,1,Enemigos/Soldier_1/Idle.png,7,Enemigos/Soldier_1/Walk.png,7,Enemigos/Soldier_1/Shot_2.png,4,Enemigos/Soldier_1/Dead.png,4
+7274,4960,7394,1,Enemigos/Skeleton_Archer/Idle.png,7,Enemigos/Skeleton_Archer/Walk.png,8,Enemigos/Skeleton_Archer/Shot_1.png,15,Enemigos/Skeleton_Archer/Dead.png,5
+7488,5056,7650,1,Enemigos/Soldier_2/Idle.png,9,Enemigos/Soldier_2/Walk.png,8,Enemigos/Soldier_2/Shot_1.png,4,Enemigos/Soldier_2/Dead.png,4
+4074,4864,4546,0,Enemigos/Gangsters_2/Idle.png,7,Enemigos/Gangsters_2/Run.png,10,Enemigos/Gangsters_2/Attack_1.png,6,Enemigos/Gangsters_2/Dead.png,5
+4810,4928,5154,0,Enemigos/Gangsters_3/Idle.png,7,Enemigos/Gangsters_3/Run.png,10,Enemigos/Gangsters_3/Attack.png,5,Enemigos/Gangsters_3/Dead.png,5

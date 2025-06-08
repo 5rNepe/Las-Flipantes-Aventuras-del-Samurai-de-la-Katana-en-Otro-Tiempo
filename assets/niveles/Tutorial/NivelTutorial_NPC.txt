@@ -1,0 +1,5 @@
+4192,14336,NPCS/NPC1.png,9,Lucia,Creo que va a llover,null
+3648,14304,NPCS/NPC3.png,11,Mauricio,Que tal?; Me han dicho que han aparecido nuevas cuevas; Ten cuidado,null
+3104,14304,NPCS/NPC4.png,5,Patricia,No deberias deambular a estas horas; Vete a tu casa,null
+4480,14368,NPCS/NPC1.png,9,Laura,Ultimamente no sale mucha agua del pozo,null
+7168,14272,NPCS/accion.png,1,Samurai,Hora de dormir,E para Dormir

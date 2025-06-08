@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="left-down" width="200" height="200" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="7">
+ <tileset firstgid="1" source="Suelo Roca.tsx"/>
+ <tileset firstgid="41" source="Agua.tsx"/>
+ <tileset firstgid="71" source="Villa Suelo.tsx"/>
+ <tileset firstgid="327" source="Portal1.tsx"/>
+ <tileset firstgid="331" source="Suelos Swamp.tsx"/>
+ <tileset firstgid="391" source="Arboles.tsx"/>
+ <tileset firstgid="469" source="Portal2.tsx"/>
+ <tileset firstgid="473" source="ObjetosFuturistasGenerales.tsx"/>
+ <tileset firstgid="625" source="GandalfCore.tsx"/>
+ <tileset firstgid="1705" source="Fogata.tsx"/>
+ <tileset firstgid="1745" source="Tiles Ciudad.tsx"/>
+ <tileset firstgid="1799" source="Suelos Industrial.tsx"/>
+ <tileset firstgid="1880" source="Bandera.tsx"/>
+ <tileset firstgid="1884" source="Rocas.tsx"/>
+ <tileset firstgid="1898" source="Objetos Mediavales.tsx"/>
+ <layer id="5" name="Capa de patrones 5" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt2E1Kw0AYBuCQLjyACF14BhG8gl27FTeC7vQYbtRrqFcQ72G9hn8ncIIphDBfTAVN2zwPfJtOoFm8b2c6RQEAABA76RggTz8gph8Q0w+I6QfE9ANi+gEx/YCYfkBMPyBW9eOwHPotYDjtPWJWxmswNl0dyK3ZTxiTqgOzIPP2D8Zu2f0D+KYfENMPNtHHpCg+J0O/BQAAAMDme8rcwTy6l2GkrlP2b9Lc6gAj9FP+79Ln92ke9IMRyuX/cmu494H/NG3kfvE/4aLO/6kesCaeU3bnaV5a55jpL881V3X2D5yLWAHbHTnc6ZHR1/TMW5r31rPtfDv7sI72Uo7LNGeZ/O7/8W947jthWX3vKqucT9Ic98hdn/PPUeMZ96WsqtxdzaILlfOgD12Z7jrf79ZrzX64L2XTyDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQ1xdM4CxK
+  </data>
+ </layer>
+ <objectgroup id="6" name="CapaObjetos">
+  <object id="1" name="Muerte" x="4.72727" y="1504" width="6411.27" height="48"/>
+  <object id="2" name="Victoria" x="5875.45" y="619.269" width="21.3333" height="18"/>
+  <object id="4" name="Final" x="5757.33" y="577.333" width="44" height="58.6667"/>
+  <object id="6" name="boss" x="5484" y="604" width="62" height="15.3333"/>
+ </objectgroup>
+ <layer id="2" name="Capa de patrones 2" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt20dOlHEAxuExgiQGURBjXODGhQVLYuIZjPUArq2nsAK2E1gB2yHs3sEuliPYsSx8ZzGKX2aGJgOMz5P8wgczk3yL/5uBAKUSAAAAAAAAAADA/2tx29+fd7dVfx7MV30tpVJ/Gkin05l0Np1L51vqv7a8h3Lb2v5c2wjNZDAbGErD6Vq6nm6km+nWOPso6y5so8tGaCK3s4E76W66l+6nB+lhelRjH8VNdBY24X2EZvEkG3ianqXn6UV6mV6lkSr7qJz74kbGbqLycYWNMM+9zwY+pI/pU/qcvqSvabTKPtbkzK9KvYU9dFXZin0wWSsXjv+c7gk8519pby2VlqSOtDQtS52pKy1vLdxXje+jqv1s3pPr1fbBJG2dwNnf0sB9rM0G1qX1aUPqTRvTprS5xj6Ke6j8/NFjD0zD7pz7PWlvnfO/I4/tTLsauJGJqPU+UdmF9wqm61DO/OF0pM7Z35/HDqSDc2wfYz1eMNt3QDM6kTN/Mp1Kfak/DRSuj6Zj6fgc3gfMhMs581fS1TSYhtJw4fpCupgu2QcAAAAAAAAzbGRhqfQ6vUlv0zu/o4LfRrOHb+l7+pF+2gdNqNa/DS9q6F3AzJrqOW+v8fWOadwLNFr5/O+r8/hkz3llT1PdR63XwWyonMftU/x7+uJ5d74BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAan4BsSZGIQ==
+  </data>
+ </layer>
+ <layer id="4" name="Capa de patrones 4" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6DZP64FvMygByQgAQAAAAAAAAAAAAAAAACA37quBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAH1ogD1
+  </data>
+ </layer>
+ <layer id="3" name="Capa de patrones 3" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEOATEUBuBOGCfANXANHMqhsLRyD+fAxrNrMsJYSDvyfclLmraLt/nTl6YEAAAAAAAAAAAAAAAAAHzjPC7dAdTrIh/w0jWycYu6ywh0TNuUZlHztnQnUJ9F5GIZtZIPBuY4+s3d3DpysYnaygcAUMCh6e7tm7TL1r2cet6D2jzH8EnpJgCoTt9vmnxuAuD/vHsP2g/nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzwMP/wyo
+  </data>
+ </layer>
+ <layer id="1" name="Capa de patrones 1" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt2suOG0UUBuAezFiQIKTcBngENtyfgklgBZGyASIehA3wGsCOFwAWiBUSW3ITIAGRYMU1I3ZcxWlsi06lurp7Zmz32N8nHbm60+4pRed3VXumqgAAAAAAAAAAAAAA2Daf3b/uGcB4fdcjH1eWPw0Ynb8iG39H/dORkbHm48rAgiEe2a2qR6Me2+2+9sakqm5G3Zosf1596XmW6ZnIxbNRzxXy8cB8bfk1cnEn6iDq/em9170Z59+Kenty93iZ5IMhPk32SV3P3pciFy9EvVjIx/5OVV1M6tLOvde9E1l4N+q9yd3jZZIPhrid5KHr2Xu/pdeb//561MtJXc1k5kasKTejrkVdn86O63s/Xg2vvuRje3wen7XXoq4XPnNLzwC/Rxb+iPpznomuZ+9F71/NrAuLNSOXjVL9GJn4Yjob/zCdHT9RDa++5GPcPip89g71U/T8z1G/zHv/k3j9MuqryX/jN+pzzWeA1PnYI12I2pvvlUrP3l3rwtBcNOubyMS384wcyMfWye3H2/bktQ87MvTxpHzfvj/rycjBU1FPz/OQe/Y+7LowpL6fZ+NOvF7ekY9t0dVbuT35kBrSs5cz+Xg+crAfdXGeh/TZu23NOM6q14vbUb9N/5+nfGy+VfTWkErz0WftWeX8v57O1g/7q3GrH013C/VB5nO4aRX7kePIx0sjmFNdB43nc/ur8Xsoqm6l+6ImLeOxfOZuQj5y85SP8UjXizofD0adijqdGa+7f+RDPo5Tab9U/8lDbr1oy8e6e0c+5OMoclko7ZcervLrRdv16+4d+ZCPvtIstK0F9bhtPWhbL6wf8rEKXXub5jVtx+l9FufTLLStBadazp2u2teL3PXr7hv5GHc+cj3epWtvs7imdLw4l3tfs49L+WibQ2m9OJvUuvtGPlaTj8P0eS3XY11K3wU1+7x0vDiXe18uH7l5Dt1f5fLx6s7JrteSfLwygjm1zXOZ+Sj9bmu3pX/SvUvufqX3lWqZ+WjOqbR+nKlmPX4uGZfykBbj1vfv4HN93Hec6+/D3KfPeFn7q7Ys9BlzcvVdZ0q/2+oap72c6+2u18Pk47DrR7O36/Pnoy4MLDbDKvLR53vOrte+92/2+bnC8eLc2eR8moW9Af+XbJ6++TjKnmcd+Vj0+V7LcfOcHNBmU/dXcBz65uPMEWod6wecFEfJ1tCSD7ZVn++NPEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUPsX6Y/zzA==
+  </data>
+ </layer>
+ <layer id="7" name="Capa de patrones 6" width="200" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt19FNwlAUBuAbS4QReIENkAeXAEdgQxYwJs6AUZAVeFHEETzGNoFGg6GmQvm+5E/aNG36cP/b05QAAAAAAAAAAAAAAAAAAACo011W7f7Vxd+8BxyzXvSkH7nP+2LdU9Ui1tJzZFlxD26SSZ7yMeej00ppepnSW/RiE3mP3OYdGcS1q8iwtf853QN7VWVvr+O7UO4IFEbRi3HkptSP7XVZzDLX2ffXD/UYz3uKzP/5e6YbHJvPfr1EL14j6+zrvJ13tOhjHcxUzbc9I80iD7+Yldg1SbrSVD/NSOzn3wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOFUfSpEgiA==
+  </data>
+ </layer>
+</map>

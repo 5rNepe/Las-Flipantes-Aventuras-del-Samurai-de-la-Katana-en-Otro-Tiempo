@@ -1,0 +1,10 @@
+1584,4384,NPCS/NPC5.png,7,Andrea,Eres nuevo por aqui no?;Bienvenido a Regnas City la ciudad que nunca duerme;(Se te queda mirando);Por que vas vestido asi?,null
+1920,4320,NPCS/NPC6.png,8,Samurai,(Esta mirando por la valla y no se da cuenta de que estas alli);(Sera mejor dejarla),null
+2176,4320,NPCS/NPC7.png,6,Margarita,Que miras?,no
+2240,4320,NPCS/NPC9.png,9,Laura,Como te iba diciendo...,no
+4672,4512,NPCS/NPC8.png,14,Pepe,Otro dialogo que no se ve, Subscribe TeamLechuga yeah,no
+2624,4608,NPCS/NPC10.png,7,Maria,Abre la **** puerta;Le debes pasta al jefe;(Se te queda mirando);Por que vas vestido asi?;Tu no estas viendo nada,null
+3296,4512,NPCS/NPC11.png,6,Andoni,Ultimamente estan bajando las temperaturas;(Te mira);Quieres una?;Tambien tengo 0 por si no te gustan con alcohol,null
+4128,4512,NPCS/NPC12.png,6,Marcos,Hoy estan cerrados todos los comercios;Querias algo?,null
+3920,4512,NPCS/accion.png,1,Samurai,Llamas a la puerta;No responde nadie;Golpeas la puerta con todas tus fuerzas;Mejor me voy,Pulsa E para llamar
+2592,4320,NPCS/accion.png,1,Samurai,Cerrado de forma indefinida,Pulsa E para leer

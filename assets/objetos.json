@@ -1,0 +1,48 @@
+[
+  {
+    "nombre": "Casco de Hierro",
+    "tipoEquipo": "Casco",
+    "vida": 50,
+    "velocidadDash": 10,
+    "longitudDash": 0,
+    "velocidad": 0,
+    "imagen": "casco_iron.png"
+  },
+  {
+    "nombre": "Pechera de Acero",
+    "tipoEquipo": "Pechera",
+    "vida": 100,
+    "vidaExtra": 50,
+    "velocidadDash": 0,
+    "longitudDash": 0,
+    "velocidad": 0,
+    "imagen": "pechera_acero.png"
+  },
+  {
+    "nombre": "Pantalones de Guerra",
+    "tipoEquipo": "Pantalones",
+    "vida": 70,
+    "velocidadDash": 0,
+    "longitudDash": 20,
+    "velocidad": 0,
+    "imagen": "pantalones_guerra.png"
+  },
+  {
+    "nombre": "Botas Rápidas",
+    "tipoEquipo": "Botas",
+    "vida": 30,
+    "velocidadDash": 0,
+    "longitudDash": 0,
+    "velocidad": 15,
+    "imagen": "botas_rapidas.png"
+  },
+  {
+    "nombre": "Botas Rápidas2",
+    "tipoEquipo": "Botas",
+    "vida": 40,
+    "velocidadDash": 0,
+    "longitudDash": 0,
+    "velocidad": 10,
+    "imagen": "botas_rapidas.png"
+  }
+]

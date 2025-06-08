@@ -1,0 +1,4 @@
+1664,12448,NPCS/accion.png,1,Samurai,(Rebuscas entre las cajas por algo valioso;No encuentras nada de valor,Pulsa E para rebuscar
+2784,12480,NPCS/accion.png,1,Samurai,(Ropa, sin mas);Que esperabas?,Pulsa E para ver la ropa
+7616,12288,NPCS/accion.png,1,Samurai,Aqui yace -------;La tumba se ha vuelto ilegible con los años,Pulsa E para leer
+6560,8192,NPCS/accion.png,1,Samurai,Que esta pasando?;He vuelto al pueblo?;Algo anda mal;Tengo que arreglar esto cuanto antes,Pulsa E ...

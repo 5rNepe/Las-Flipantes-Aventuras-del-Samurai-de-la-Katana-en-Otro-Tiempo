@@ -1,0 +1,15 @@
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+eclipse.project.name = appName + '-core'
+
+dependencies {
+  implementation 'com.google.code.gson:gson:2.8.6'
+  implementation 'com.badlogicgames.gdx:gdx:1.9.14'
+  implementation 'com.badlogicgames.gdx:gdx-backend-lwjgl3:1.9.14'  // Si usas LWJGL3
+  implementation 'com.badlogicgames.gdx:gdx-platform:1.9.14:natives-desktop' // Asegúrate de tener las dependencias para tu plataforma
+  implementation 'com.badlogicgames.gdx:gdx-box2d:1.9.14'
+  api "com.badlogicgames.gdx:gdx:$gdxVersion"
+
+  if(enableGraalNative == 'true') {
+    implementation "io.github.berstanio:gdx-svmhelper-annotations:$graalHelperVersion"
+  }
+}
